@@ -124,12 +124,6 @@ Follow the menu prompts to manage your library.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
@@ -147,6 +141,6 @@ Written as part of a **Python OOP coursework project**.
 Replace with your link:
 
 ```
-https://github.com/<your-username>/library-system
+https://github.com/mishal636/Library-Management-System-Python-OOP-
 ```
 
