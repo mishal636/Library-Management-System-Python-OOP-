@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="library_banner.svg" alt="Library System Banner" width="100%">
+
+<br>
+
+**A robust, console-based Library Management System engineered with Python OOP.**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![OOP](https://img.shields.io/badge/Architecture-OOP-4B5563?style=for-the-badge&logo=gitbook&logoColor=white)](#)
+[![Regex](https://img.shields.io/badge/Validation-Regex-059669?style=for-the-badge&logo=regular-expressions&logoColor=white)](#)
+[![Terminal](https://img.shields.io/badge/CLI-Terminal-0f172a?style=for-the-badge&logo=gnome-terminal&logoColor=white)](#)
+
+*Demonstrating core backend fundamentals: Abstract Classes, Exception Handling, Serialization, and modular code architecture.*
+
+</div>
+
+<br>
+
 # 📚 Library Management System (Python OOP)
 
 A fully functional **console‑based Library Management System** built using **Python OOP**, with features like user roles, borrowing limits, ISBN validation, and persistent storage using `pickle`.
